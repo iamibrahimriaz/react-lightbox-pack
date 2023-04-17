@@ -1,6 +1,6 @@
 {
   "name": "@iamibrahimriaz/react-lightbox-pack",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "A minimal lightbox package for react with required features",
   "author": "imshines",
   "license": "MIT",
@@ -31,7 +31,7 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^16.0.0 || ^18.0.0"
+    "react": "^16.0.0 || ^18.x.x"
   },
   "devDependencies": {
     "babel-eslint": "10.1.0",
