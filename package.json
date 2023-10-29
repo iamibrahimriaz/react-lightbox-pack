@@ -1,10 +1,10 @@
 {
-  "name": "@iamibrahimriaz/react-lightbox-pack",
-  "version": "0.1.6",
+  "name": "react-lightbox-pack-18support",
+  "version": "0.1.6.1",
   "description": "A minimal lightbox package for react with required features",
-  "author": "imshines",
+  "author": "iamibrahimriaz",
   "license": "MIT",
-  "repository": "imshines/react-lightbox-pack",
+  "repository": "https://github.com/iamibrahimriaz/react-lightbox-pack",
   "keywords": [
     "react",
     "lightbox",
