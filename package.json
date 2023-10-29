@@ -1,7 +1,7 @@
 {
   "name": "react-lightbox-pack-18support",
   "version": "0.1.7",
-  "description": "React lightbox Pack - React 18 Support",
+  "description": "React lightbox Pack - React 18 Support. Forked from - https://github.com/imshines/react-lightbox-pack",
   "author": "iamibrahimriaz",
   "license": "MIT",
   "repository": {
